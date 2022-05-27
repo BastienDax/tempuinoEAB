@@ -19,7 +19,7 @@ C'est la page d'affichage de notre graphique, vous pouvez le retrouver dans le d
 
 Petite précision :
 
-Pour faire charger les pages, il vous faudre WAMP ainsi que créer un dossier sous le nom de "php" dans les fichiers d'installations WAMP (ex : C:\wamp64\www\ --> C:\wamp64\www\php\). Une fois votre dossier créé, vous devez mettre les 2 fichiers qui se trouvent dans "Site_PHP_Graphique" dans le dossier "php" (C:\wamp64\www\php\ _fichiers_)
+Pour faire charger les pages, il vous faudre WAMP ainsi que créer un dossier sous le nom de "php" dans les fichiers d'installations WAMP ou de votre serveur (ex : C:\wamp64\www\ --> C:\wamp64\www\php\). Une fois votre dossier créé, vous devez mettre les 2 fichiers qui se trouvent dans "Site_PHP_Graphique" dans le dossier "php" (C:\wamp64\www\php\ _fichiers_)
 
 Une fois terminée, il faudra modifier certains paramètres en fonction de votre PC. En effet, vous ouvrez le fichier "pdo.php" dans un éditeur et vous modifiez vos informations de connexion ainsi que l'IP et le port de votre serveur (ex : Si vous hebergez chez vous, mettez "localhost:port" sinon introduisez l'IP de votre serveur. Précision supplémentaire, si WAMP utilise un autre port que celui par défaut (Port : 3306), modifiez-le dans le fichier.
 
